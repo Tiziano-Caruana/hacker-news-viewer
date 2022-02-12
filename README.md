@@ -29,8 +29,8 @@
 Develop an application for democratizing information diffusion in the tech field through the usage of "Hacker News" service.
 
 - Fetch the IDs of the first 500 available news
-- At startup show title, link, and date of the first 10 available news.
-- Add a button (load more) that let the user visualize information about the next 10 news.
+- At startup show title, link, and date of the first 9 available news.
+- Add a button (load more) that let the user visualize information about the next 9 news.
 
 ### Built With
 
