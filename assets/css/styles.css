@@ -1,0 +1,78 @@
+@font-face {
+    font-family: Nunito;
+    src: url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+    font-weight: normal;
+}
+ 
+@font-face {
+    font-family: Nunito;
+    src: url('https://fonts.googleapis.com/css2?family=Nunito:wght@700&display=swap');
+    font-weight: bold;
+}
+ 
+@font-face {
+    font-family: Nunito;
+    src: url('https://fonts.googleapis.com/css2?family=Nunito:wght@800&display=swap');
+    font-weight: 800; /* Extra-bold */
+}
+ 
+ 
+* {
+    font-family: Nunito;
+    font-weight: bold !important;
+}
+
+html,body{
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+ 
+::-webkit-scrollbar {
+    width: 10px;
+    
+}
+  
+/* Track */
+::-webkit-scrollbar-track {
+    background: none;
+    border-radius: 10px;
+}
+  
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 10px;
+}
+  
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: rgb(118, 117, 117);
+}
+  
+h1 {
+    font-weight: 800 !important;
+}
+ 
+p::selection {
+    background: white;
+    color: #d53343;
+}
+ 
+p.text-muted::selection {
+    background: #6c757daa;
+    color: white;
+}
+ 
+h1::selection {
+    background: #212529f5;
+    color: white;
+}
+ 
+h3::selection {
+    background: #212529f5;
+    color: white;
+}
+
+a:hover {
+    color: #d53343 !important;
+}
