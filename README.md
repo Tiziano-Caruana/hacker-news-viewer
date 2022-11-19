@@ -43,8 +43,6 @@ Develop an application for democratizing information diffusion in the tech field
 
 Tiziano Caruana - tizianocaruana@gmail.com
 
-start2impact personal page - https://talent.start2impact.it/profile/tiziano-caruana
-
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/tiziano-caruana-9892701b9/
